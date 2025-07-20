@@ -1,9 +1,8 @@
 .card-container {
   display: flex;
   justify-content: center;
-  margin: 20px;
 }
 .card {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
